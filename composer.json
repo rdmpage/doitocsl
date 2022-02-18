@@ -1,0 +1,13 @@
+{
+    "name": "rpage/doitocsl",
+    "authors": [
+        {
+            "name": "Roderic Page",
+            "email": "rdmpage@gmail.com"
+        }
+    ],
+  "require": {
+    "ext-mbstring": "^7.1",
+     "sunra/php-simple-html-dom-parser": "^1.5"
+  }
+}
