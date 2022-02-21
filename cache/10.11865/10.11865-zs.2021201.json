@@ -1,0 +1,55 @@
+[
+    {
+        "container-title": "动物分类学报",
+        "type": "article-journal",
+        "issn": [
+            "2095-6827"
+        ],
+        "author": [
+            {
+                "literal": "Yejie Lin"
+            },
+            {
+                "literal": "Yuri M. Marusik"
+            },
+            {
+                "literal": "Caixia Gao"
+            },
+            {
+                "literal": "Hao Xu"
+            },
+            {
+                "literal": "Xiaoqing Zhang"
+            },
+            {
+                "literal": "Ziyi Wang"
+            },
+            {
+                "literal": "Wenhui Zhu"
+            },
+            {
+                "literal": "Shuqiang Li"
+            }
+        ],
+        "title": "Twenty-three new spider species (Arachnida: Araneae) from Asia",
+        "volume": "46",
+        "issue": "2",
+        "page-first": "91",
+        "page": "91-152",
+        "DOI": "10.11865/zs.2021201",
+        "URL": "http://www.zootax.com.cn/CN/abstract/abstract296.shtml",
+        "link": [
+            {
+                "URL": "http://www.zootax.com.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=296",
+                "content-type": "application/pdf"
+            }
+        ],
+        "issued": {
+            "date-parts": [
+                [
+                    2021
+                ]
+            ]
+        }
+    }
+]

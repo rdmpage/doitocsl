@@ -1,0 +1,64 @@
+[
+    {
+        "id": "zxxb202101001",
+        "title": "中国延斑蛛属4新种(蜘蛛目:古筛蛛科)",
+        "multi": {
+            "_key": {
+                "title": {
+                    "zh": "中国延斑蛛属4新种(蜘蛛目:古筛蛛科)",
+                    "en": "Four new species of the genus Ectatosticta(Araneae,Hypochilidae)from China"
+                },
+                "abstract": {
+                    "zh": "本文报道了中国延斑蛛属(Ectatosticta Simon,1892)4新种:八戒延斑蛛,新种E.bajie sp.nov.(♂♀);大鹏延斑蛛,新种 E.dapeng sp.nov.(♂♀);如来延斑蛛,新种 E.rulai sp.nov.(♂♀);余锟延斑蛛,新种E.yukuni sp.nov.(♂♀).提供了这4种延斑蛛的描述、照片以及详细的鉴别特征.",
+                    "en": "Four new species of the spider genus Ectatosticta Simon,1892 are reported,diagnosed,described and illustrated.The new species are E.bajie sp.nov.(♂♀),E.dapeng sp.nov.(♂♀),E.rulai sp.nov.(♂♀)and E.yukuni sp.nov.(♂♀)."
+                },
+                "container-title": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                }
+            }
+        },
+        "abstract": "本文报道了中国延斑蛛属(Ectatosticta Simon,1892)4新种:八戒延斑蛛,新种E.bajie sp.nov.(♂♀);大鹏延斑蛛,新种 E.dapeng sp.nov.(♂♀);如来延斑蛛,新种 E.rulai sp.nov.(♂♀);余锟延斑蛛,新种E.yukuni sp.nov.(♂♀).提供了这4种延斑蛛的描述、照片以及详细的鉴别特征.",
+        "container-title": "蛛形学报",
+        "issued": {
+            "date-parts": [
+                [
+                    2021,
+                    1,
+                    1
+                ]
+            ]
+        },
+        "issue": "1",
+        "volume": "30",
+        "page": "1-8",
+        "DOI": "10.3969/j.issn.1005-9628.2021.01.001",
+        "ISSN": [
+            "1005-9628"
+        ],
+        "author": [
+            {
+                "literal": "林业杰",
+                "multi": {
+                    "_key": {
+                        "literal": {
+                            "zh": "林业杰",
+                            "en": "LIN Ye-Jie"
+                        }
+                    }
+                }
+            },
+            {
+                "literal": "李枢强",
+                "multi": {
+                    "_key": {
+                        "literal": {
+                            "zh": "李枢强",
+                            "en": "LI Shu-Qiang"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

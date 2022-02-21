@@ -1,0 +1,33 @@
+[
+    {
+        "container-title": "动物分类学报",
+        "type": "article-journal",
+        "issn": [
+            "2095-6827"
+        ],
+        "author": [
+            {
+                "literal": "Qian Wang"
+            },
+            {
+                "literal": "Donghui Wang"
+            },
+            {
+                "literal": "Li Shi"
+            }
+        ],
+        "title": "A genus and three species of Anthomyzidae newly recorded from China (Diptera)",
+        "volume": "46",
+        "issue": "2",
+        "page-first": "163",
+        "page": "163-175",
+        "DOI": "10.11865/zs.2021105",
+        "URL": "http://www.zootax.com.cn/CN/abstract/abstract295.shtml",
+        "link": [
+            {
+                "URL": "http://www.zootax.com.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=295",
+                "content-type": "application/pdf"
+            }
+        ]
+    }
+]

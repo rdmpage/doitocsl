@@ -1,0 +1,32 @@
+[
+    {
+        "type": "article-journal",
+        "id": "https://doi.org/10.34971/5zx0-py98",
+        "categories": [
+            "Taxonomie et nomenclature"
+        ],
+        "author": [
+            {
+                "family": "Coulot",
+                "given": "Pierre"
+            },
+            {
+                "family": "Rabaute",
+                "given": "Philippe"
+            }
+        ],
+        "issued": {
+            "date-parts": [
+                [
+                    2021
+                ]
+            ]
+        },
+        "container-title": "Société botanique d'Occitanie",
+        "DOI": "10.34971/5ZX0-PY98",
+        "publisher": "Société botanique d'Occitanie",
+        "title": "Quatre nouvelles combinaisons au sein de la tribu des Fabeae Rchb. (Fabaceae)",
+        "URL": "https://sbocc.fr/publication/quatre-nouvelles-combinaisons-au-sein-de-la-tribu-des-fabeae-rchb-fabaceae/",
+        "version": "1.0"
+    }
+]

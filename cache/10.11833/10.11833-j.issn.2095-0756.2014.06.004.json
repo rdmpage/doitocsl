@@ -1,0 +1,65 @@
+[
+    {
+        "container-title": "浙江农林大学学报",
+        "type": "article-journal",
+        "issn": [
+            "2095-0756"
+        ],
+        "author": [
+            {
+                "literal": "林海伦"
+            },
+            {
+                "literal": "李修鹏"
+            },
+            {
+                "literal": "章建红"
+            },
+            {
+                "literal": "沈波"
+            },
+            {
+                "literal": "林海伦"
+            },
+            {
+                "literal": "李修鹏"
+            },
+            {
+                "literal": "章建红"
+            },
+            {
+                "literal": "沈波"
+            }
+        ],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    12,
+                    20
+                ]
+            ]
+        },
+        "URL": "https://zlxb.zafu.edu.cn/cn/article/doi/10.11833/j.issn.2095-0756.2014.06.004?viewType=HTML",
+        "link": [
+            {
+                "URL": "https://zlxb.zafu.edu.cn/fileZJNLDXXB/journal/article/zjnldxxb/2014/6/PDF/31-6-4.pdf",
+                "content-type": "application/pdf"
+            }
+        ],
+        "title": "中国兰科植物1新种——宁波石豆兰",
+        "volume": "31",
+        "issue": "6",
+        "page-first": "847",
+        "page": "847-849",
+        "DOI": "10.11833/j.issn.2095-0756.2014.06.004",
+        "multi": {
+            "_key": {
+                "title": {
+                    "zh": "中国兰科植物1新种——宁波石豆兰",
+                    "en": "Bulbophyllum ningboense, a new species of Orchidaceae from Zhejiang, China"
+                }
+            }
+        }
+    }
+]

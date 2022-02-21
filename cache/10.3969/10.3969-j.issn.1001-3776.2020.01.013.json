@@ -1,0 +1,107 @@
+[
+    {
+        "id": "zjlykj202001013",
+        "title": "浙江大戟科一新种——仙霞岭大戟",
+        "multi": {
+            "_key": {
+                "title": {
+                    "zh": "浙江大戟科一新种——仙霞岭大戟",
+                    "en": "Euphorbia xianxialingensis (Euphorbiaceae), a New Species from Zhejiang"
+                },
+                "abstract": {
+                    "zh": "报导了浙江江山仙霞岭省级自然保护区的大戟科Euphorbiaceae一新种——仙霞岭大戟Euphorbia xianxialingensis F.Y.Zhang,W.Y.Xie et Z.H.Chen.该种形态上接近于钩腺大戟E.sieboldiana C.Morren et Decne.,不同之处在于根状茎纤细,直径1～4 mm,茎紫红色,中上部被柔毛,叶片长3～7 cm,宽4～13 mm,背面被长柔毛,叶缘稍反卷,密具不规则的软骨质微齿,总苞叶边缘密具不规则的软骨质微齿,苞叶肾圆形,先端常圆钝,边缘密具不规则的软骨质微齿,腺体两端的角细长,刺状或线状,淡绿色."
+                },
+                "container-title": {
+                    "zh": "浙江林业科技",
+                    "en": "Journal of Zhejiang Forestry Science and Technology"
+                }
+            }
+        },
+        "abstract": "报导了浙江江山仙霞岭省级自然保护区的大戟科Euphorbiaceae一新种——仙霞岭大戟Euphorbia xianxialingensis F.Y.Zhang,W.Y.Xie et Z.H.Chen.该种形态上接近于钩腺大戟E.sieboldiana C.Morren et Decne.,不同之处在于根状茎纤细,直径1～4 mm,茎紫红色,中上部被柔毛,叶片长3～7 cm,宽4～13 mm,背面被长柔毛,叶缘稍反卷,密具不规则的软骨质微齿,总苞叶边缘密具不规则的软骨质微齿,苞叶肾圆形,先端常圆钝,边缘密具不规则的软骨质微齿,腺体两端的角细长,刺状或线状,淡绿色.",
+        "container-title": "浙江林业科技",
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    2,
+                    28
+                ]
+            ]
+        },
+        "issue": "1",
+        "volume": "40",
+        "page": "82-85",
+        "DOI": "10.3969/j.issn.1001-3776.2020.01.013",
+        "ISSN": [
+            "1001-3776"
+        ],
+        "author": [
+            {
+                "literal": "张芬耀",
+                "multi": {
+                    "_key": {
+                        "literal": {
+                            "zh": "张芬耀",
+                            "en": "ZHANG Fen-yao"
+                        }
+                    }
+                }
+            },
+            {
+                "literal": "陈锋",
+                "multi": {
+                    "_key": {
+                        "literal": {
+                            "zh": "陈锋",
+                            "en": "CHEN Feng"
+                        }
+                    }
+                }
+            },
+            {
+                "literal": "谢文远",
+                "multi": {
+                    "_key": {
+                        "literal": {
+                            "zh": "谢文远",
+                            "en": "XIE Wen-yuan"
+                        }
+                    }
+                }
+            },
+            {
+                "literal": "郑志鑫",
+                "multi": {
+                    "_key": {
+                        "literal": {
+                            "zh": "郑志鑫",
+                            "en": "ZHENG Zhi-xin"
+                        }
+                    }
+                }
+            },
+            {
+                "literal": "毛美红",
+                "multi": {
+                    "_key": {
+                        "literal": {
+                            "zh": "毛美红",
+                            "en": "MAO Mei-hong"
+                        }
+                    }
+                }
+            },
+            {
+                "literal": "陈征海",
+                "multi": {
+                    "_key": {
+                        "literal": {
+                            "zh": "陈征海",
+                            "en": "CHEN Zheng-hai"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

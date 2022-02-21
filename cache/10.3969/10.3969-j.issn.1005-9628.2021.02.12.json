@@ -1,0 +1,61 @@
+[
+    {
+        "id": "zxxb202102012",
+        "title": "朱氏峭腹蛛是多刺峭腹蛛的新名称",
+        "multi": {
+            "_key": {
+                "title": {
+                    "zh": "朱氏峭腹蛛是多刺峭腹蛛的新名称",
+                    "en": "Nomenclatural notes on a homonym in the genus Tmarus Simon,1875 (Araneae:Thomisidae)"
+                },
+                "abstract": {
+                    "en": "Introduction\r\nThe genus Tmarus Simon,1875 currently contains 226 species (WSC,2021) of which 24 are known to occur in China:T.byssinus Tang & Li,2009,T.circinalis Song & Chai,1990,T.digitiformis Yang,Zhu& Song,2005,T.gladiatus Tang & Li,2010,T.hastatus Tang & Li,2009,T.koreanus Paik,1973,T.longqicus Song & Zhu,1993,T.menglae Song & Zhao,1994,T.ningshaanensis Wang & Xi,1998,T.orientalis Schenkel,1963,T.piger (Walckenaer,1802),T.qinlingensis Song & Wang,1994,T.rimosus Paik,1973,T serratus Yang,Zhu & Song,2005,T.shuquianglii Barrion,Barrion-Dupo & Heong,2013,T.songi Han & Zhu,2009,T.spicatus Tang & Li,2009,T.spinosus Zhu,Zhang,Zhang & Chen,2005,T.taibaiensis Song & Wang,1994,T.taishanensis Zhu & Wen,1981,T.taiwanus Ono,1977,T.unda-tus Tang & Li,2009,T.yani Yin,Peng,Gong & Kim,2004,and T.yiminhensis Zhu & Wen,1981."
+                },
+                "container-title": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                }
+            }
+        },
+        "abstract": "Introduction\r\nThe genus Tmarus Simon,1875 currently contains 226 species (WSC,2021) of which 24 are known to occur in China:T.byssinus Tang & Li,2009,T.circinalis Song & Chai,1990,T.digitiformis Yang,Zhu& Song,2005,T.gladiatus Tang & Li,2010,T.hastatus Tang & Li,2009,T.koreanus Paik,1973,T.longqicus Song & Zhu,1993,T.menglae Song & Zhao,1994,T.ningshaanensis Wang & Xi,1998,T.orientalis Schenkel,1963,T.piger (Walckenaer,1802),T.qinlingensis Song & Wang,1994,T.rimosus Paik,1973,T serratus Yang,Zhu & Song,2005,T.shuquianglii Barrion,Barrion-Dupo & Heong,2013,T.songi Han & Zhu,2009,T.spicatus Tang & Li,2009,T.spinosus Zhu,Zhang,Zhang & Chen,2005,T.taibaiensis Song & Wang,1994,T.taishanensis Zhu & Wen,1981,T.taiwanus Ono,1977,T.unda-tus Tang & Li,2009,T.yani Yin,Peng,Gong & Kim,2004,and T.yiminhensis Zhu & Wen,1981.",
+        "container-title": "蛛形学报",
+        "issued": {
+            "date-parts": [
+                [
+                    2021,
+                    11,
+                    30
+                ]
+            ]
+        },
+        "issue": "2",
+        "volume": "30",
+        "page": "143-144",
+        "DOI": "10.3969/j.issn.1005-9628.2021.02.12",
+        "ISSN": [
+            "1005-9628"
+        ],
+        "author": [
+            {
+                "literal": "Danniella SHERWOOD",
+                "multi": {
+                    "_key": {
+                        "literal": {
+                            "en": "Danniella SHERWOOD"
+                        }
+                    }
+                }
+            },
+            {
+                "literal": "LI Shu-Qiang",
+                "multi": {
+                    "_key": {
+                        "literal": {
+                            "en": "LI Shu-Qiang"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

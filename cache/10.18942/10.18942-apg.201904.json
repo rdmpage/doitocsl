@@ -1,0 +1,37 @@
+[
+    {
+        "DOI": "10.18942/apg.201904",
+        "URL": "https://doi.org/10.18942/apg.201904",
+        "language": "en",
+        "title": "<i>Acranthera collina </i>(Rubiaceae), a Splendid New Species from the Serikin Area, Kuching Division, Sarawak, Malaysia",
+        "author": [
+            {
+                "given": "Che-Wei",
+                "family": "Lin"
+            },
+            {
+                "given": "Chi-Hung",
+                "family": "Lee"
+            }
+        ],
+        "publisher": "The Japanese Society for Plant Systematics",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    31
+                ]
+            ]
+        },
+        "volume": "70",
+        "number": "3",
+        "page": "189-194",
+        "ISSN": [
+            "1346-7565",
+            "1346-7565",
+            "2189-7042"
+        ],
+        "container-title": "Acta phytotaxonomica et geobotanica"
+    }
+]

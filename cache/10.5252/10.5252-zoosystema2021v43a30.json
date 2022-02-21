@@ -1,0 +1,241 @@
+[
+    {
+        "indexed": {
+            "date-parts": [
+                [
+                    2021,
+                    12,
+                    15
+                ]
+            ],
+            "date-time": "2021-12-15T04:03:24Z",
+            "timestamp": 1639541004957
+        },
+        "reference-count": 80,
+        "publisher": "Museum National d'Histoire Naturelle, Paris, France",
+        "issue": "30",
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "Zoosystema"
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    11,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.5252/zoosystema2021v43a30",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2021,
+                    12,
+                    13
+                ]
+            ],
+            "date-time": "2021-12-13T10:32:53Z",
+            "timestamp": 1639391573000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Shrews (Mammalia, Eulipotyphla) from a biodiversity hotspot, Mount Nimba (West Africa), with a field identification key to species"
+        ],
+        "prefix": "10.5252",
+        "volume": "43",
+        "author": [
+            {
+                "given": "Christiane",
+                "family": "Denys",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Institut de Systématique, évolution, Biodiversité (ISYEB), Muséum national d'Histoire naturelle, CNRS, Sorbonne Université, EPHE, Université des Antilles UMR 7205, case postale 51, 57 rue Cuvier, F-75231 Paris cedex 05 (France)"
+                    }
+                ]
+            },
+            {
+                "given": "François",
+                "family": "Jacquet",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Institut de Systématique, évolution, Biodiversité (ISYEB), Muséum national d'Histoire naturelle, CNRS, Sorbonne Université, EPHE, Université des Antilles UMR 7205, case postale 51, 57 rue Cuvier, F-75231 Paris cedex 05 (France)"
+                    }
+                ]
+            },
+            {
+                "given": "Blaise",
+                "family": "Kadjo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Laboratoire de Zoologie et Biologie – UFR Biosciences-Université Félix Houphouët-Boigny (Côte d'Ivoire)"
+                    }
+                ]
+            },
+            {
+                "given": "Alain Didier",
+                "family": "Missoup",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zoology Unit, Laboratory of Biology and Physiology of Animal Organisms, Faculty of Science, University of Douala, POBox 24157 Douala (Cameroon)"
+                    }
+                ]
+            },
+            {
+                "given": "Vladimir",
+                "family": "Aniskine",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Severtsov Institute of Ecology and Evolution, Russian Academy of Sciences, Leninskii pr 33, 117071 Moscow (Russia)"
+                    }
+                ]
+            },
+            {
+                "given": "Joelle Goüy",
+                "family": "de Bellocq",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Institute of Vertebrate Biology, Research Facility Studenec, Czech Academy of Sciences, Květná 8, 603 65 Brno (Czech Republic)"
+                    }
+                ]
+            },
+            {
+                "given": "Barré",
+                "family": "Soropogui",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Projet de Recherche sur les Fièvres Hemorragiques en Guinée, C.H.U. Donka, 5680 Conakry (Guinea)"
+                    }
+                ]
+            },
+            {
+                "given": "Mory",
+                "family": "Douno",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Centre de Gestion de l'Environnement des monts Nimba et Simandou (CEGENS), ministère de l'Environnement des Eaux et Forêts (Guinea)"
+                    }
+                ]
+            },
+            {
+                "given": "Morlaye",
+                "family": "Sylla",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Centre d'études et de Recherches sur les Petits Animaux, Université Gamal Abdel Nasser, 2580 Conakry (Guinea)"
+                    }
+                ]
+            },
+            {
+                "given": "Violaine",
+                "family": "Nicolas",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Institut de Systématique, évolution, Biodiversité (ISYEB), Muséum national d'Histoire naturelle, CNRS, Sorbonne Université, EPHE, Université des Antilles, UMR 7205, case postale 51, 57 rue Cuvier, F-75231 Paris cedex 05 (France) ; aude.lalis@mnhn.fr"
+                    }
+                ]
+            },
+            {
+                "given": "Aude",
+                "family": "Lalis",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Institut de Systématique, évolution, Biodiversité (ISYEB), Muséum national d'Histoire naturelle, CNRS, Sorbonne Université, EPHE, Université des Antilles, UMR 7205, case postale 51, 57 rue Cuvier, F-75231 Paris cedex 05 (France) ; aude.lalis@mnhn.fr"
+                    }
+                ]
+            },
+            {
+                "given": "Ara",
+                "family": "Monadjem",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Department of Biological Sciences, University of Eswatini, Private Bag 4, Kwaluseni, Eswatini & Mammal Research Institute, Department of Zoology & Entomology, University of Pretoria, Private Bag 20, Hatfield 0028, Pretoria (South Africa)"
+                    }
+                ]
+            }
+        ],
+        "member": "3209",
+        "container-title": [
+            "Zoosystema"
+        ],
+        "original-title": [],
+        "deposited": {
+            "date-parts": [
+                [
+                    2021,
+                    12,
+                    13
+                ]
+            ],
+            "date-time": "2021-12-13T10:33:43Z",
+            "timestamp": 1639391623000
+        },
+        "score": 1,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2021,
+                    11,
+                    30
+                ]
+            ]
+        },
+        "references-count": 80,
+        "journal-issue": {
+            "issue": "30",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        11,
+                        1
+                    ]
+                ]
+            }
+        },
+        "URL": "http://dx.doi.org/10.5252/zoosystema2021v43a30",
+        "relation": {},
+        "ISSN": [
+            "1280-9551"
+        ],
+        "issn-type": [
+            {
+                "value": "1280-9551",
+                "type": "print"
+            }
+        ],
+        "subject": [
+            "Animal Science and Zoology",
+            "Ecology, Evolution, Behavior and Systematics"
+        ],
+        "published": {
+            "date-parts": [
+                [
+                    2021,
+                    11,
+                    30
+                ]
+            ]
+        }
+    }
+]

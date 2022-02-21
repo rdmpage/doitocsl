@@ -1,0 +1,867 @@
+[
+    {
+        "indexed": {
+            "date-parts": [
+                [
+                    2022,
+                    1,
+                    15
+                ]
+            ],
+            "date-time": "2022-01-15T06:57:20Z",
+            "timestamp": 1642229840278
+        },
+        "reference-count": 91,
+        "publisher": "Wiley",
+        "license": [
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2022,
+                            1,
+                            14
+                        ]
+                    ],
+                    "date-time": "2022-01-14T00:00:00Z",
+                    "timestamp": 1642118400000
+                },
+                "content-version": "vor",
+                "delay-in-days": 0,
+                "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+            },
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2022,
+                            1,
+                            14
+                        ]
+                    ],
+                    "date-time": "2022-01-14T00:00:00Z",
+                    "timestamp": 1642118400000
+                },
+                "content-version": "tdm",
+                "delay-in-days": 0,
+                "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+            }
+        ],
+        "content-domain": {
+            "domain": [
+                "onlinelibrary.wiley.com"
+            ],
+            "crossmark-restriction": true
+        },
+        "short-container-title": [
+            "J of Sytematics Evolution"
+        ],
+        "DOI": "10.1111/jse.12811",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2021,
+                    10,
+                    16
+                ]
+            ],
+            "date-time": "2021-10-16T16:07:55Z",
+            "timestamp": 1634400475000
+        },
+        "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Biogeography, timing, and life‐history traits in the PPAM clade: Coleanthinae (syn. Puccinelliinae), Poinae, Alopecurinae superclade, Miliinae, and Avenulinae and Phleinae (Poaceae, Pooideae, Poeae)"
+        ],
+        "prefix": "10.1111",
+        "author": [
+            {
+                "ORCID": "http://orcid.org/0000-0002-8358-4915",
+                "authenticated-orcid": false,
+                "given": "Robert J.",
+                "family": "Soreng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "National Museum of Natural History, MRC‐166 NHB Smithsonian Institution Washington, DC 20013‐7012 USA"
+                    }
+                ]
+            },
+            {
+                "ORCID": "http://orcid.org/0000-0003-3129-434X",
+                "authenticated-orcid": false,
+                "given": "Lynn J.",
+                "family": "Gillespie",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Canadian Museum of Nature PO Box 3443, Station D Ottawa ON K1P 6P4 Canada"
+                    }
+                ]
+            },
+            {
+                "ORCID": "http://orcid.org/0000-0003-0445-917X",
+                "authenticated-orcid": false,
+                "given": "Ekaterina A.",
+                "family": "Boudko",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "National Museum of Natural History, MRC‐166 NHB Smithsonian Institution Washington, DC 20013‐7012 USA"
+                    },
+                    {
+                        "name": "The Growcer Inc. 891 Boyd Ave. Ottawa ON K2A 2E2 Canada"
+                    }
+                ]
+            },
+            {
+                "ORCID": "http://orcid.org/0000-0002-7706-5801",
+                "authenticated-orcid": false,
+                "given": "Evren",
+                "family": "Cabi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Department of Biology, Faculty of Arts and Sciences Namık Kemal University Tekirdağ Centrum 59030 Turkey"
+                    }
+                ]
+            }
+        ],
+        "member": "311",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    1,
+                    14
+                ]
+            ]
+        },
+        "reference": [
+            {
+                "key": "e_1_2_7_2_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/TAC.1974.1100705"
+            },
+            {
+                "key": "e_1_2_7_3_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "95",
+                "DOI": "10.1093/aob/mcr274",
+                "article-title": "Inferences of phytogeographical histories within subfamily Hyacinthoideae using S‐DIVA and Bayesian MCMC analysis implemented in RASP (Reconstructed Ancestral State in Phylogenies)",
+                "volume": "109",
+                "author": "Ali SS",
+                "year": "2021",
+                "journal-title": "Annals of Botany"
+            },
+            {
+                "key": "e_1_2_7_4_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/boj.12185"
+            },
+            {
+                "key": "e_1_2_7_5_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.ympev.2008.01.035"
+            },
+            {
+                "key": "e_1_2_7_6_1",
+                "first-page": "451",
+                "volume-title": "Diversity, phylogeny, and evolution in the monocotyledons",
+                "author": "Bouchenak‐Khelladi Y",
+                "year": "2010"
+            },
+            {
+                "key": "e_1_2_7_7_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.3906/bot-1611-28"
+            },
+            {
+                "key": "e_1_2_7_8_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.3372/wi.46.46201"
+            },
+            {
+                "key": "e_1_2_7_9_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.3732/ajb.0900008"
+            },
+            {
+                "issue": "1",
+                "key": "e_1_2_7_10_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "111",
+                "DOI": "10.2307/4102880",
+                "article-title": "Chorology of the genera of Gramineae",
+                "volume": "30",
+                "author": "Clayton WD",
+                "year": "1975",
+                "journal-title": "Kew Bulletin"
+            },
+            {
+                "key": "e_1_2_7_11_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "135",
+                "DOI": "10.2307/4117012",
+                "article-title": "The chorology of Old World species of Gramineae",
+                "volume": "35",
+                "author": "Clayton WD",
+                "year": "1980",
+                "journal-title": "Kew Bulletin"
+            },
+            {
+                "key": "e_1_2_7_12_1",
+                "first-page": "1",
+                "article-title": "Genera Graminum. Grasses of the World",
+                "volume": "13",
+                "author": "Clayton WD",
+                "year": "1986",
+                "journal-title": "Kew Bulletin, Additional Series"
+            },
+            {
+                "key": "e_1_2_7_13_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.2307/4114572"
+            },
+            {
+                "key": "e_1_2_7_14_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1038/nmeth.2109"
+            },
+            {
+                "key": "e_1_2_7_15_1",
+                "first-page": "143",
+                "volume-title": "Grass systematics and evolution",
+                "author": "Davidse G",
+                "year": "1987"
+            },
+            {
+                "key": "e_1_2_7_16_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.5642/aliso.20072301.27"
+            },
+            {
+                "key": "e_1_2_7_17_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1371/journal.pone.0002813"
+            },
+            {
+                "key": "e_1_2_7_18_1",
+                "series-title": "Martin‐Luther‐Universität",
+                "first-page": "1",
+                "volume-title": "Molekulare Phylogenie der Hafer‐Gräser (Poaceae: Pooideae: Aveneae)",
+                "author": "Döring E",
+                "year": "2009"
+            },
+            {
+                "key": "e_1_2_7_19_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1093/molbev/mss075"
+            },
+            {
+                "key": "e_1_2_7_20_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1093/botlinnean/boz060"
+            },
+            {
+                "key": "e_1_2_7_21_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/s00606-018-1499-y"
+            },
+            {
+                "key": "e_1_2_7_22_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "927",
+                "DOI": "10.1111/evo.13722",
+                "article-title": "Leaf shape and size track habitat transitions across forest–grassland boundaries in the grass family (Poaceae)",
+                "volume": "73",
+                "author": "Gallaher TJ",
+                "year": "2019",
+                "journal-title": "Evolution"
+            },
+            {
+                "key": "e_1_2_7_23_1",
+                "article-title": "Grass evolution through space and time: A biogeographical reconstruction of the Poaceae",
+                "volume": "60",
+                "author": "Gallaher TJ",
+                "year": "2022",
+                "journal-title": "Journal of Systematics and Evolution"
+            },
+            {
+                "key": "e_1_2_7_24_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.jtbi.2008.04.005"
+            },
+            {
+                "key": "e_1_2_7_25_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.5642/aliso.20072301.33"
+            },
+            {
+                "key": "e_1_2_7_26_1",
+                "doi-asserted-by": "crossref",
+                "unstructured": "GillespieLJ SorengRJ BullRD deLangePJ SmissenRD.2021. Morphological and phylogenetic evidence for subtribe Cinninae and two new subtribes Hookerochloinae and Dupontiinae (Poaceae tribe Poeae PPAM clade). Taxon.",
+                "DOI": "10.1002/tax.12654"
+            },
+            {
+                "key": "e_1_2_7_27_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1139/B08-076"
+            },
+            {
+                "key": "e_1_2_7_28_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.3897/phytokeys.111.28081"
+            },
+            {
+                "key": "e_1_2_7_29_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1071/SB09016"
+            },
+            {
+                "key": "e_1_2_7_30_1",
+                "first-page": "589",
+                "volume-title": "Diversity, phylogeny, and evolution in the monocotyledons",
+                "author": "Gillespie LJ",
+                "year": "2010"
+            },
+            {
+                "key": "e_1_2_7_31_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1093/aob/mcw108"
+            },
+            {
+                "key": "e_1_2_7_32_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/BF00985203"
+            },
+            {
+                "issue": "3",
+                "key": "e_1_2_7_33_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "243",
+                "DOI": "10.11646/phytotaxa.468.3.2",
+                "article-title": "On the placement of Coleanthus subtilis and the subtribe Coleanthinae within Poaceae by new molecular phylogenetic data",
+                "volume": "468",
+                "author": "Gnutikov AA",
+                "year": "2020",
+                "journal-title": "Phytotaxa"
+            },
+            {
+                "issue": "2",
+                "key": "e_1_2_7_34_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "304",
+                "DOI": "10.1111/j.1469-8137.2011.03972.x",
+                "article-title": "New grass phylogeny resolves deep evolutionary relationships and discovers C4 origins",
+                "volume": "193",
+                "author": "Grass Phylogeny Working Group II",
+                "year": "2012",
+                "journal-title": "New Phytologist"
+            },
+            {
+                "key": "e_1_2_7_35_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1534/g3.112.005264"
+            },
+            {
+                "key": "e_1_2_7_36_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1071/BT9610152"
+            },
+            {
+                "key": "e_1_2_7_37_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1071/BT9730201"
+            },
+            {
+                "key": "e_1_2_7_38_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.ympev.2015.03.010"
+            },
+            {
+                "key": "e_1_2_7_39_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1371/journal.pone.0060061"
+            },
+            {
+                "key": "e_1_2_7_40_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.ympev.2007.11.022"
+            },
+            {
+                "key": "e_1_2_7_41_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1093/molbev/mst010"
+            },
+            {
+                "key": "e_1_2_7_42_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/brv.12388"
+            },
+            {
+                "key": "e_1_2_7_43_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1371/journal.pone.0085761"
+            },
+            {
+                "key": "e_1_2_7_44_1",
+                "first-page": "1",
+                "article-title": "Contrasting dispersal histories of broad‐ and fine‐leaved temperate Loliinae grasses: Range expansion, founder events, and the roles of distance and barriers",
+                "volume": "44",
+                "author": "Minaya M",
+                "year": "2017",
+                "journal-title": "Journal of Biogeography"
+            },
+            {
+                "key": "e_1_2_7_45_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.ympev.2013.03.005"
+            },
+            {
+                "issue": "3",
+                "key": "e_1_2_7_46_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "1",
+                "DOI": "10.1111/njb.02015",
+                "article-title": "On polyphyly of the former section Ochlopoa and the hybridogenic section Acroleucae (Poa, Poaceae): Insights from molecular phylogenetic analyses",
+                "volume": "37",
+                "author": "Nosov NN",
+                "year": "2019",
+                "journal-title": "Nordic Journal of Botany"
+            },
+            {
+                "issue": "5",
+                "key": "e_1_2_7_47_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "740",
+                "DOI": "10.1007/s00438-001-0606-9",
+                "article-title": "Structural features of a wheat plastome as revealed by complete sequencing of chloroplast DNA",
+                "volume": "266",
+                "author": "Ogihara Y",
+                "year": "2002",
+                "journal-title": "Molecular Genetics and Genomics"
+            },
+            {
+                "issue": "2121",
+                "key": "e_1_2_7_48_1",
+                "first-page": "1",
+                "article-title": "A 313 plastome phylogenomic analysis of Pooideae: Exploring relationships among the largest subfamily of grasses",
+                "volume": "159",
+                "author": "Orton LM",
+                "year": "2021",
+                "journal-title": "Molecular Phylogenetics and Evolution"
+            },
+            {
+                "key": "e_1_2_7_49_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.7717/peerj.6959"
+            },
+            {
+                "key": "e_1_2_7_50_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.7717/peerj.3815"
+            },
+            {
+                "key": "e_1_2_7_51_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1002/ece3.6484"
+            },
+            {
+                "key": "e_1_2_7_52_1",
+                "first-page": "6",
+                "article-title": "De speciebus generis Milium L. (Poaceae) notullae systematicae",
+                "volume": "14",
+                "author": "Probatova NS",
+                "year": "1977",
+                "journal-title": "Novosti Sistematiki Vysshchikh Rastenii"
+            },
+            {
+                "key": "e_1_2_7_53_1",
+                "first-page": "105",
+                "article-title": "Caryotaxonomy of the genus Milium L. and some related genera of grasses (Poaceae)",
+                "volume": "46",
+                "author": "Probatova NS",
+                "year": "2000",
+                "journal-title": "Komarovskie Čtenija (Vladivostok)"
+            },
+            {
+                "key": "e_1_2_7_54_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "35",
+                "DOI": "10.1007/s12225-016-9646-5",
+                "article-title": "New octoploid Catabrosa (Poaceae) species from Altai",
+                "volume": "71",
+                "author": "Punina EO",
+                "year": "2016",
+                "journal-title": "Kew Bulletin"
+            },
+            {
+                "issue": "9",
+                "key": "e_1_2_7_55_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "1554",
+                "DOI": "10.3732/ajb.94.9.1554",
+                "article-title": "Phylogeny of the tribe Aveneae (Pooideae, Poaceae) inferred from plastid trnT‐F and nuclear ITS sequences",
+                "volume": "94",
+                "author": "Quintanar Sánchez A",
+                "year": "2007",
+                "journal-title": "American Journal of Botany"
+            },
+            {
+                "key": "e_1_2_7_56_1",
+                "unstructured": "RambautA.2006+. FigTree tree figure drawing tool version 1.4.3. Institute of Evolutionary Biology. Available fromhttp://tree.bio.ed.ac.uk/[accessed January 2020]."
+            },
+            {
+                "key": "e_1_2_7_57_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1080/10635150701883881"
+            },
+            {
+                "issue": "1",
+                "key": "e_1_2_7_58_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "122",
+                "DOI": "10.1600/036364412X616701",
+                "article-title": "Molecular phylogeny of Dissanthelium (Poaceae: Pooideae) and its taxonomic implications",
+                "volume": "37",
+                "author": "Refulio Rodríguez N",
+                "year": "2012",
+                "journal-title": "Systematic Botany"
+            },
+            {
+                "issue": "1",
+                "key": "e_1_2_7_59_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "87",
+                "DOI": "10.15553/c2011v661a6",
+                "article-title": "Helictochloa Romero Zarco (Poaceae), a new genus of oat grass",
+                "volume": "66",
+                "author": "Romero Zarco C",
+                "year": "2011",
+                "journal-title": "Candollea"
+            },
+            {
+                "key": "e_1_2_7_60_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1093/bioinformatics/btg180"
+            },
+            {
+                "key": "e_1_2_7_61_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1093/sysbio/sys029"
+            },
+            {
+                "key": "e_1_2_7_62_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.3897/phytokeys.87.12774"
+            },
+            {
+                "key": "e_1_2_7_63_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.7717/peerj.4299"
+            },
+            {
+                "key": "e_1_2_7_64_1",
+                "first-page": "557",
+                "volume-title": "Diversity, Phylogeny, and Evolution in the Monocotyledons",
+                "author": "Saarela JM",
+                "year": "2010"
+            },
+            {
+                "key": "e_1_2_7_65_1",
+                "first-page": "1",
+                "article-title": "Plastid phylogenomics of the cool‐season grass subfamily: Clarification of relationships among early‐diverging tribes",
+                "volume": "2015",
+                "author": "Saarela JM",
+                "year": "2015",
+                "journal-title": "AoB Plants"
+            },
+            {
+                "key": "e_1_2_7_66_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/j.1365-294X.2010.04629.x"
+            },
+            {
+                "issue": "14",
+                "key": "e_1_2_7_67_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "389",
+                "DOI": "10.1111/j.1461-0248.2011.01600.x",
+                "article-title": "Testing Darwin′s naturalization hypothesis in the Azores",
+                "volume": "2011",
+                "author": "Schaefer H",
+                "year": "2011",
+                "journal-title": "Ecology Letters"
+            },
+            {
+                "key": "e_1_2_7_68_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1080/14772000.2010.544339"
+            },
+            {
+                "key": "e_1_2_7_69_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1104/pp.18.01448"
+            },
+            {
+                "key": "e_1_2_7_70_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/geb.12923"
+            },
+            {
+                "key": "e_1_2_7_71_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1002/j.1537-2197.1990.tb12549.x"
+            },
+            {
+                "key": "e_1_2_7_72_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/BF02868851"
+            },
+            {
+                "key": "e_1_2_7_73_1",
+                "first-page": "61",
+                "volume-title": "Grasses: Systematics and evolution",
+                "author": "Soreng RJ",
+                "year": "2000"
+            },
+            {
+                "key": "e_1_2_7_74_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/BF00937800"
+            },
+            {
+                "issue": "3",
+                "key": "e_1_2_7_75_1",
+                "first-page": "425",
+                "article-title": "A phylogenetic analysis of Poaceae tribe Poeae sensu lato based on morphological characters and sequence data from three plastid‐encoded genes: Evidence for reticulation, and a new classification for the tribe",
+                "volume": "62",
+                "author": "Soreng RJ",
+                "year": "2007",
+                "journal-title": "Kew Bulletin"
+            },
+            {
+                "key": "e_1_2_7_76_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/njb.01507"
+            },
+            {
+                "key": "e_1_2_7_77_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/jse.12146"
+            },
+            {
+                "key": "e_1_2_7_78_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/jse.12647"
+            },
+            {
+                "key": "e_1_2_7_79_1",
+                "first-page": "1",
+                "article-title": "Catalogue of New World Grasses (Poaceae): IV. Subfamily Pooideae",
+                "volume": "48",
+                "author": "Soreng RJ",
+                "year": "2003",
+                "journal-title": "Contributions from the United States National Herbarium"
+            },
+            {
+                "key": "e_1_2_7_80_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/jse.12262"
+            },
+            {
+                "key": "e_1_2_7_81_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/jse.12150"
+            },
+            {
+                "key": "e_1_2_7_82_1",
+                "article-title": "A worldwide phylogenetic classification of the Poaceae (Gramineae) III: An update",
+                "volume": "60",
+                "author": "Soreng RJ",
+                "year": "2022",
+                "journal-title": "Journal of Systematics and Evolution"
+            },
+            {
+                "key": "e_1_2_7_83_1",
+                "first-page": "1",
+                "article-title": "Molecules under the microscope",
+                "volume": "2020",
+                "author": "Stace CA",
+                "year": "2020",
+                "journal-title": "Plant Review"
+            },
+            {
+                "key": "e_1_2_7_84_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1146/annurev-earth-040809-152402"
+            },
+            {
+                "key": "e_1_2_7_85_1",
+                "first-page": "522",
+                "volume-title": "Floristic regions of the world",
+                "author": "Takhtajan A",
+                "year": "1986"
+            },
+            {
+                "key": "e_1_2_7_86_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1002/tax.12204"
+            },
+            {
+                "key": "e_1_2_7_87_1",
+                "first-page": "26",
+                "article-title": "Notes on some genera of the family Poaceae",
+                "volume": "44",
+                "author": "Tzvelev NN",
+                "year": "2013",
+                "journal-title": "Novosti Sistematiki Vysshchikh Rastenii"
+            },
+            {
+                "key": "e_1_2_7_88_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/BF03160638"
+            },
+            {
+                "key": "e_1_2_7_89_1",
+                "volume-title": "Geological Times Scale v. 5.0",
+                "author": "Walker JD",
+                "year": "2018"
+            },
+            {
+                "key": "e_1_2_7_90_1",
+                "volume-title": "The grass genera of the world",
+                "author": "Watson L",
+                "year": "1992"
+            },
+            {
+                "key": "e_1_2_7_91_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/jse.12222"
+            },
+            {
+                "key": "e_1_2_7_92_1",
+                "unstructured": "YuY BlairC HarrisAJ HeXJ. 2019. A rough guide to RASP 4.2 (07/24/2019). Available fromhttps://sourceforge.net/projects/rasp2/[accessed April 2021]."
+            }
+        ],
+        "container-title": [
+            "Journal of Systematics and Evolution"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jse.12811",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/jse.12811",
+                "content-type": "application/xml",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jse.12811",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2022,
+                    1,
+                    14
+                ]
+            ],
+            "date-time": "2022-01-14T16:49:54Z",
+            "timestamp": 1642178994000
+        },
+        "score": 1,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2022,
+                    1,
+                    14
+                ]
+            ]
+        },
+        "references-count": 91,
+        "alternative-id": [
+            "10.1111/jse.12811"
+        ],
+        "URL": "http://dx.doi.org/10.1111/jse.12811",
+        "archive": [
+            "Portico"
+        ],
+        "relation": {},
+        "ISSN": [
+            "1674-4918",
+            "1759-6831"
+        ],
+        "issn-type": [
+            {
+                "value": "1674-4918",
+                "type": "print"
+            },
+            {
+                "value": "1759-6831",
+                "type": "electronic"
+            }
+        ],
+        "subject": [
+            "Plant Science",
+            "Ecology, Evolution, Behavior and Systematics"
+        ],
+        "published": {
+            "date-parts": [
+                [
+                    2022,
+                    1,
+                    14
+                ]
+            ]
+        },
+        "assertion": [
+            {
+                "value": "2021-07-07",
+                "order": 0,
+                "name": "received",
+                "label": "Received",
+                "group": {
+                    "name": "publication_history",
+                    "label": "Publication History"
+                }
+            },
+            {
+                "value": "2021-10-12",
+                "order": 1,
+                "name": "accepted",
+                "label": "Accepted",
+                "group": {
+                    "name": "publication_history",
+                    "label": "Publication History"
+                }
+            },
+            {
+                "value": "2022-01-14",
+                "order": 2,
+                "name": "published",
+                "label": "Published",
+                "group": {
+                    "name": "publication_history",
+                    "label": "Publication History"
+                }
+            }
+        ]
+    }
+]

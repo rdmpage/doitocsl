@@ -1,0 +1,43 @@
+[
+    {
+        "type": "article-journal",
+        "id": "https://doi.org/10.26107/rbz-2021-0021",
+        "categories": [
+            "Eurema",
+            "CO1",
+            "28S",
+            "relationships",
+            "phylogenetic",
+            "Peninsular Malaysia"
+        ],
+        "author": [
+            {
+                "family": "Azrizal-Wahid",
+                "given": "Noor"
+            },
+            {
+                "family": "Rizman-Idid",
+                "given": "Mohammed"
+            },
+            {
+                "family": "Sofian-Azirun",
+                "given": "Mohd"
+            }
+        ],
+        "issued": {
+            "date-parts": [
+                [
+                    2021
+                ]
+            ]
+        },
+        "abstract": "Raffles Bulletin of Zoology, 69, 262-271",
+        "container-title": "Raffles Bulletin of Zoology",
+        "DOI": "10.26107/RBZ-2021-0021",
+        "volume": "69",
+        "page": "262-271",
+        "publisher": "Lee Kong Chian Natural History Museum",
+        "title": "Phylogenetic relationships of Eurema butterflies from Peninsular Malaysia inferred from CO1 and 28S gene sequences with emphasis on Eurema hecabe",
+        "URL": "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/10/2021/07/RBZ-2021-0021.pdf"
+    }
+]
